@@ -7,7 +7,7 @@
 # CAREamics-stubs
 
 [![License](https://img.shields.io/pypi/l/careamics.svg?color=green)](https://github.com/CAREamics/careamics/blob/main/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/careamics.svg?color=green)](https://pypi.org/project/careamics)
+[![PyPI](https://img.shields.io/pypi/v/careamics-stubs.svg?color=green)](https://pypi.org/project/careamics-stubs)
 [![Python Version](https://img.shields.io/pypi/pyversions/careamics.svg?color=green)](https://python.org)
 [![CI](https://github.com/CAREamics/careamics/actions/workflows/ci.yml/badge.svg)](https://github.com/CAREamics/careamics/actions/workflows/ci.yml)
 
