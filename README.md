@@ -14,3 +14,10 @@
 
 CAREamics is a PyTorch library aimed at simplifying the use of Noise2Void and its many
 variants and cousins (CARE, Noise2Noise, N2V2, P(P)N2V, HDN, muSplit etc.).
+
+
+## Update stubs
+
+```
+stubgen /path/to/careamics/repo/src -o /path/to/careamics-stubs/
+```
